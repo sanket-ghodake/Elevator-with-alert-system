@@ -1,0 +1,5 @@
+# ignore ALL .workspace and .pdsbak files
+*.workspace
+*.pdsbak
+
+# ignore ALL files in ANY directory named temp
